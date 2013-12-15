@@ -1,0 +1,1 @@
+Quick Console App describing why C# Random isn't random.
